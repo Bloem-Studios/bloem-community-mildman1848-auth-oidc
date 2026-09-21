@@ -20,7 +20,7 @@ import (
 //go:embed manifest.json
 var manifestFS embed.FS
 
-var version = "0.1.4"
+var version = "0.1.5"
 
 type runtimeServer struct {
 	pluginv1.UnimplementedRuntimeServer

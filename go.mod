@@ -1,9 +1,9 @@
-module github.com/mildman1848/silo-plugin-auth-oidc
+module github.com/Bloem-Studios/bloem-community-mildman1848-auth-oidc
 
 go 1.26.3
 
 require (
-	github.com/Silo-Server/silo-plugin-sdk v0.13.3-0.20260811193700-636acff04b36
+	github.com/Bloem-Studios/bloem-plugin-sdk v0.16.1
 	google.golang.org/grpc v1.82.1
 	google.golang.org/protobuf v1.36.11
 )
